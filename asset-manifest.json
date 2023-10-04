@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OyekunleDare/react-tailwind-quiz-app/static/css/main.a95f2401.css",
+    "main.js": "/OyekunleDare/react-tailwind-quiz-app/static/js/main.451df852.js",
+    "static/js/787.eac42d72.chunk.js": "/OyekunleDare/react-tailwind-quiz-app/static/js/787.eac42d72.chunk.js",
+    "static/media/red.jpg": "/OyekunleDare/react-tailwind-quiz-app/static/media/red.722f14fa1252ad826abb.jpg",
+    "static/media/blue.jpg": "/OyekunleDare/react-tailwind-quiz-app/static/media/blue.701ae65e23510f8d94f4.jpg",
+    "index.html": "/OyekunleDare/react-tailwind-quiz-app/index.html",
+    "main.a95f2401.css.map": "/OyekunleDare/react-tailwind-quiz-app/static/css/main.a95f2401.css.map",
+    "main.451df852.js.map": "/OyekunleDare/react-tailwind-quiz-app/static/js/main.451df852.js.map",
+    "787.eac42d72.chunk.js.map": "/OyekunleDare/react-tailwind-quiz-app/static/js/787.eac42d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95f2401.css",
+    "static/js/main.451df852.js"
+  ]
+}
