@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-quiz-app/static/css/main.61a8b1d7.css",
-    "main.js": "/react-quiz-app/static/js/main.f20575cd.js",
-    "static/js/787.eac42d72.chunk.js": "/react-quiz-app/static/js/787.eac42d72.chunk.js",
-    "static/media/red.jpg": "/react-quiz-app/static/media/red.722f14fa1252ad826abb.jpg",
-    "static/media/blue.jpg": "/react-quiz-app/static/media/blue.701ae65e23510f8d94f4.jpg",
-    "index.html": "/react-quiz-app/index.html",
-    "main.61a8b1d7.css.map": "/react-quiz-app/static/css/main.61a8b1d7.css.map",
-    "main.f20575cd.js.map": "/react-quiz-app/static/js/main.f20575cd.js.map",
-    "787.eac42d72.chunk.js.map": "/react-quiz-app/static/js/787.eac42d72.chunk.js.map"
+    "main.css": "/react-tailwind-quiz-app/static/css/main.a55380d2.css",
+    "main.js": "/react-tailwind-quiz-app/static/js/main.1f2be1e8.js",
+    "static/js/787.eac42d72.chunk.js": "/react-tailwind-quiz-app/static/js/787.eac42d72.chunk.js",
+    "static/media/red.jpg": "/react-tailwind-quiz-app/static/media/red.722f14fa1252ad826abb.jpg",
+    "static/media/blue.jpg": "/react-tailwind-quiz-app/static/media/blue.701ae65e23510f8d94f4.jpg",
+    "index.html": "/react-tailwind-quiz-app/index.html",
+    "main.a55380d2.css.map": "/react-tailwind-quiz-app/static/css/main.a55380d2.css.map",
+    "main.1f2be1e8.js.map": "/react-tailwind-quiz-app/static/js/main.1f2be1e8.js.map",
+    "787.eac42d72.chunk.js.map": "/react-tailwind-quiz-app/static/js/787.eac42d72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61a8b1d7.css",
-    "static/js/main.f20575cd.js"
+    "static/css/main.a55380d2.css",
+    "static/js/main.1f2be1e8.js"
   ]
 }
